@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>
+	.dd{
+		margin:auto;
+		width:1000px;
+		}
+	.top{
+		background:#F99;
+		height:200px;
+				}
+	.left{
+		background:#69C;
+		width:400px;
+		height:500px;
+		float:right;
+		}		
+	.right{
+		background:#F90;
+		height:500px;
+		width:600px;
+		}	
+	.bottom{
+		background:#099;
+		height:150px;
+		width:1000px;
+		}
+	.shiji{
+		height:40px;
+		}
+	.bk{
+		height:40px;
+		}
+	.kk{
+		background:#FFF;
+		width:15px;
+		}
+	.rr{
+		float:right;
+		width:420px;
+		height:200px;
+		
+		}
+	.ll{
+		float:left;
+		width:180px;
+		height:200px;
+		}
+		
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<div class="dd">
+    	<div class="top"><img src="../Desktop/bg.jpg" width="1000" height="200"></div>
+        <div class="kk">&nbsp;</div>
+        <div class="left">
+        	<div class="tj">
+            	<div class="shiji">
+                <img src="1jpg.jpg"></div>
+            	<ul>
+                	<li>用户： 893人</li>
+                    <li>日志：4397个</li>
+                    <li>评论： 4593个</li>
+                </ul>
+            </div>
+            <div class="rm">
+            	<div class="bk">
+                <img src="2.jpg"></div>
+                	<ul>
+                    	<li>
+                        	<a href="#">艾萨克</a>&nbsp;&lt;
+                        	<a htef="#">isaac</a> &nbsp;&gt;</li>
+                        <li>
+                        	<a href="#">詹姆斯</a>&nbsp;&lt;
+                            <a htef="#">isaac</a> &nbsp;&gt;</li>
+                        
+                        <li>
+                        	<a href="#">流畅</a>&nbsp;&lt;
+                            <a htef="#">isaac</a> &nbsp;&gt;</li>
+                           
+                        <li>
+                        	<a href="#">CYBERSPACE</a>&nbsp;&lt;
+                            <a htef="#">isaac</a> &nbsp;&gt;</li>
+                            
+                        <li>
+                        	<a href="#">无聊生活</a>&nbsp;&lt;
+                             <a htef="#">isaac</a> &nbsp;&gt;</li>
+                            
+                        <li>
+                        	<a href="#">楚岑.洗信</a>&nbsp;&lt;
+                            <a htef="#">isaac</a> &nbsp;&gt;
+                            </li>
+                        <li>
+                        	<a href="#">小孩儿</a>&nbsp;&lt;
+                            <a htef="#">isaac</a> &nbsp;&gt;
+                            </li>
+                        <li>
+                        	<a href="#">未名空间</a>&nbsp;&lt;
+                             <a htef="#">isaac</a> &nbsp;&gt;
+                            </li>
+                        <li>
+                        	<a href="#">Dark City</a>&nbsp;&lt;
+                            <a htef="#">isaac</a> &nbsp;&gt;
+                            </li>
+                        <li>
+                        	<a href="#">E心E意&36</a>&nbsp;&lt;
+                        	<a htef="#">isaac</a> &nbsp;&gt;
+                        </li>
+                    </ul>
+            </div>
+        </div>
+        <div class="right">
+       	  <div class="ll"></div>
+       	  <div class="rr">博客推荐
+       	    <div class="xx"></div>
+          </div>
+         
+        </div>
+        <div class="bottom">bottom</div>
+	
+	</div>
+</body>
+</html>
